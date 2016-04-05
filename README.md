@@ -1,4 +1,4 @@
-##Snow Shoveler Quotes Calculator
+##Snow Shoveler Quote Calculator
 
 This is a simple CLI application for calculating the cubic feet of snow
 on a driveway with user-provided dimensions.
